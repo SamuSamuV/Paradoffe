@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "RemoteControl",
-			"Enabled": true
-		},
-		{
 			"Name": "BlueprintMaterialTextureNodes",
 			"Enabled": true
 		}
